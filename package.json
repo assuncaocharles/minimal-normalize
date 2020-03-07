@@ -19,7 +19,7 @@
   "author": "Diel Duarte",
   "license": "MIT",
   "dependencies": {
-    "microbundle": "^0.4.4"
+    "microbundle": "^0.8.0"
   },
   "devDependencies": {
     "jest": "^22.4.2"
